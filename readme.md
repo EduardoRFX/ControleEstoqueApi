@@ -1,6 +1,6 @@
 ## Controle de Estoque API ✅
 --- 
--- Api para o controle de estoque, que tem como recursos, gerenciar a entradas e saídas de itens, registar itens, cadastras usuários, cadastrar fornecedores, introduzir um sistema de login para definir acesso a alguns rotas só com autenticação, introdução de tokens, criptografia de senhas de usuários, crud geral de todas as rotas principais.
+-- Api para o controle de estoque, que tem como recursos, gerenciar as entradas e saídas de itens, registra itens, cadastras usuários, cadastrar fornecedores, introduzir um sistema de login para definir acesso a alguns rotas só com autenticação, introdução de tokens, criptografia de senhas de usuários, crud geral de todas as rotas principais.
 
 ## Usage 💡
 
