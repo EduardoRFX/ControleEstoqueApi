@@ -35,8 +35,8 @@
 * express - framework para que gerencia rotas, requisições e verbos http
 * express-validator - valida dados de entradas da aplicação
 * http-errors - instância erros http
-* jsonwebtoken - gera tokens e verifica suas autencidades
-* mysql2 - drive para a utilização do banco postgres na aplicação
+* jsonwebtoken - gera tokens e verifica suas autenticidades
+* mysql2 - drive para a utilização do banco mysql na aplicação
 * sequelize - ORM
 
 ### Tecnologias recomendadas
